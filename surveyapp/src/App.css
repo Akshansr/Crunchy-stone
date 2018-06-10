@@ -1,0 +1,70 @@
+.App {
+  text-align: center;
+}
+
+
+
+
+
+.namu{
+
+  position:center;
+	
+	font-size: 1.5em;
+	
+  background: whitesmoke;
+  
+	
+
+	padding: 10px;
+	
+
+	display: inline-block;
+	
+
+	border-radius: 9999em;
+}
+
+.bod{
+
+  background: linear-gradient(21deg, #cedde7, white);
+  font-size: 1.5em;
+  display: inline-block;
+
+  padding: 40px;
+
+  
+
+}
+
+.questions{
+
+  font-weight: bold;
+}
+.formu{
+
+  background: white;
+  font-family: calibri;
+  
+  font-size: 1em;
+  display: block;
+
+  padding: 40px;
+
+  border-radius: 9999em;
+}
+
+.submitu{
+
+  border-top:		2px solid #a3ceda;
+	border-left:		2px solid #a3ceda;
+	border-right:		2px solid #4f6267;
+  border-bottom:		2px solid #4f6267;
+  border-radius: 9999em;
+	padding:		10px 20px !important;
+	font-size:		14px !important;
+  background-color:	linear-gradient(10deg, red, white);
+  font-weight:		bold;
+  color:			#2d525d;
+  
+}
